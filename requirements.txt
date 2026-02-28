@@ -13,3 +13,4 @@ gtts
 gitpython
 apscheduler
 motor
+heroku3
